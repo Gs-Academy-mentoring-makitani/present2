@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyProduct</string>
+    <string name="facebook_app_id">1458294034476273</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LogIn">login</string>
+    <string name="title_activity_top">TopActivity</string>
+    <string name="ShopSearch">ShopSearch</string>
+    <string name="Friend">Friend</string>
+    <string name="Message">Message</string>
+    <string name="Management">Management</string>
+    <string name="CheckIn">CheckIn</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_marker_item">MarkerItem</string>
+    <string name="title_activity_marker_overlay">MarkerOverlay</string>
+    <string name="title_activity_searcg">SearcgActivity</string>
+    <string name="title_activity_search">activity_search</string>
+    <string name="title_activity_gps">GPSActivity</string>
+    <string name="検索条件">検索条件</string>
+    <string name="title_activity_conclusion">Conclusion</string>
+    <string name="shopname">店名</string>
+    <string name="recommend">レコメンド数</string>
+    <string name="checkin">チェックイン数</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_activity_recommend">Recommend</string>
+</resources>
